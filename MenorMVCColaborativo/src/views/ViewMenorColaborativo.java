@@ -78,7 +78,7 @@ public class ViewMenorColaborativo extends javax.swing.JFrame {
                         .addGap(54, 54, 54)
                         .addComponent(jb_Mayor)
                         .addGap(26, 26, 26)))
-                .addContainerGap(167, Short.MAX_VALUE))
+                .addContainerGap(80, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

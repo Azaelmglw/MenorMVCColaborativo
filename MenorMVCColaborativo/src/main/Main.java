@@ -17,6 +17,6 @@ public class Main {
     public static void main(String[] args) {
         ModelMenorColaborativo models_mayor = new ModelMenorColaborativo();
         ViewMenorColaborativo view_mayor = new ViewMenorColaborativo();
-        ControllerMenorColaborativo ControllerMenorColaborativo = new ControllerMenorColaborativo(model_menor_colaborativo, View_Menor_Colaborativo  );
+        ControllerMenorColaborativo ControllerMenorColaborativo = new ControllerMenorColaborativo(Model_Menor_Colaborativo. View_Menor_Colaborativo  );
 }
 }
