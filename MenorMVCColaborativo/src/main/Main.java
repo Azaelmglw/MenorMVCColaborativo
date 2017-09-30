@@ -4,11 +4,19 @@
  * and open the template in the editor.
  */
 package main;
+import views. ViewMenorColaborativo;
+import models. ModelMenorColaborativo;
+import controllers. ControllerMenorColaborativo;
 
-/**
- *
- * @author Azael_Mendoza
- */
 public class Main {
     
+/**
+     * @param args the command line arguments
+     */
+
+    public static void main(String[] args) {
+        ModelMenorColaborativo models_mayor = new ModelMenorColaborativo();
+        ViewMenorColaborativo view_mayor = new ViewMenorColaborativo();
+        ControllerMenorColaborativo ControllerMenorColaborativo = new ControllerMenorColaborativo(model_menor_colaborativo, View_Menor_Colaborativo  );
+}
 }
